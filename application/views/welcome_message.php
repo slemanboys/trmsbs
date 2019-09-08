@@ -131,8 +131,6 @@ else
     print "error";    
 }
 
-    
-
 
 ?>
 </div></div></div></div>

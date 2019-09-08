@@ -1,4 +1,3 @@
-
 <link href="http://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="/src/style.css">
 <script type="text/javascript" src="/src/rain.js"></script> 

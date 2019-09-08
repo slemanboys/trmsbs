@@ -6,7 +6,7 @@ tiramisubs scraper
 ```sh
 $ cd cons;ls
 $ chmod +x trmsbs.py #if necessary
-$ ./trmsbs
+$ ./trmsbs.py
 ```  
 **deploy+params argument:**
 ```php
@@ -34,7 +34,6 @@ function sed($t)
     return $sed;
 } # if necessary or u can use your own rss fetcher
 ```  
-![](https://img.shields.io/twitter/follow/sinkaroid?style=social)  
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
